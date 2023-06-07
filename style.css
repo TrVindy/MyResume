@@ -1,0 +1,21 @@
+
+*{
+    background-color: plum;
+}
+h1{
+    text-align: center;
+    color: white;
+    background-color: purple;
+}
+h2{
+    text-align: left;
+    color: white;
+    background-color:rgb(202, 22, 202);
+}
+.topic{
+    font-size: large;
+    font-weight: bold;
+}
+#portfolio{
+    font-size: medium;
+}
